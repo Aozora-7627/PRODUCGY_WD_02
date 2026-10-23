@@ -98,10 +98,10 @@ body {
 .btn {
   flex: 1;
   padding: 10px 0;
-  border: none;
+  border: solid 2px var(--dark-oak);
   border-radius: 4px;
   font-family: inherit;
-  font-weight: bold;
+  font-weight: italic;
   cursor: pointer;
   color: #fff;
   transition: opacity 0.2s, transform 0.1s;
